@@ -1,0 +1,21 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building spring-security-mvc-login 0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- cargo-maven2-plugin:1.6.1:run (default-cli) @ spring-security-mvc-login ---
+[WARNING] Invalid POM for cglib:cglib-nodep:jar:2.1_3, transitive dependencies (if any) will not be available, enable debug logging for more details
+[INFO] [en2.ContainerRunMojo] Resolved container artifact org.codehaus.cargo:cargo-core-container-jetty:jar:1.6.1 for container jetty8x
+[INFO] [beddedLocalContainer] Jetty 8.1.17.v20150415 Embedded starting...
+[INFO] [beddedLocalContainer] Jetty 8.1.17.v20150415 Embedded started on port [8082]
+[INFO] Press Ctrl-C to stop the container...
+[INFO] [beddedLocalContainer] Jetty 8.1.17.v20150415 Embedded is stopping...
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 4.857 s
+[INFO] Finished at: 2019-05-12T11:53:49+08:00
+[INFO] Final Memory: 26M/498M
+[INFO] ------------------------------------------------------------------------
+[INFO] [beddedLocalContainer] Jetty 8.1.17.v20150415 Embedded is stopped
